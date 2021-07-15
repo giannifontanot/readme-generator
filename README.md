@@ -4,7 +4,7 @@
 # README Generator
 The objective of the project is to generate a README.md file by answering some questions on screen. In this way, the developer does not need to invest any time to create a README.md file for his/her new project, just answer some questions and the computer will create it for him/her. The file always have a name of "README.md", because the aim of this project is to free the developer from this work.
 ## Demo
-![readme-generator.png](./readme-generator.png)
+![readme-generator.png](readme-generator.png)
 ## Features
 - The developer can make a better use of his/her time.
 - The system asks many questions automatically.
