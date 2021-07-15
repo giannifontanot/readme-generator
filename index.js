@@ -126,7 +126,7 @@ inquirer.prompt([
     sReadme += "\n" + data.description;
     // Get the picture
     sReadme += "\n" + "## Demo"
-    sReadme += "\n" + "!["+data.picture+"](./" + data.picture + ")";
+    sReadme += "\n" + "!["+data.picture+"](./assets/images/" + data.picture + ")";
     // Get 4 features of the project
     sReadme += "\n" + "## Features";
     sReadme += "\n" + "- " + data.feature1;
