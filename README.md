@@ -28,7 +28,7 @@ The installation of README.md Generator is very straightforward:
 ## Usage
 This README.md Generator is very handy, because it frees you from the task of writing one from code just by yourself. I am already using it to write this very same README file! I bet you will use it for all your projects from now on. 
 ##Future Additions 
-At this time, the Table of Contents (TOC) is generated manually. I recomend you use [Markdown TOC Generator](https://ecotrust-canada.github.io/markdown-toc/). It is very easy to use, but the downside is that you need to manually cut, paste and fix your own README to include this TOC. It will be nice to have it created automatically, too. 
+At this time, the Table of Contents (TOC) is generated manually. I recommend you use [Markdown TOC Generator](https://ecotrust-canada.github.io/markdown-toc/). It is very easy to use, but the downside is that you need to manually cut, paste and fix your own README to include this TOC. It will be nice to have it created automatically, too. 
     
 ![readme-generator.png](readme-generator.png)
 ## Credits
