@@ -12,7 +12,7 @@ The objective of the project is to generate a README.md file by answering some q
     * [Contributions](#contributions)
     * [GitHub Repository](#github-repository)
 - [🔗 Links](#---links)
-    + [GitHub Repository](#github-repository-1)
+    + [GitHub Repository](#github-repository)
     + [Live Link](#live-link)
     + [Support](#support)
     + [Authors](#authors)
@@ -27,10 +27,13 @@ The installation of README.md Generator is very straightforward:
 ````````````````````````
 ## Usage
 This README.md Generator is very handy, because it frees you from the task of writing one from code just by yourself. I am already using it to write this very same README file! I bet you will use it for all your projects from now on. 
+ - Demo on video 
+
+![readme-generator.png](readme-generator.png)
+
 ##Future Additions 
 At this time, the Table of Contents (TOC) is generated manually. I recommend you use [Markdown TOC Generator](https://ecotrust-canada.github.io/markdown-toc/). It is very easy to use, but the downside is that you need to manually cut, paste and fix your own README to include this TOC. It will be nice to have it created automatically, too. 
     
-![readme-generator.png](readme-generator.png)
 ## Credits
 To learn about npm Inquierer I used this very well explained tutorial:
  - [https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f](https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f).
