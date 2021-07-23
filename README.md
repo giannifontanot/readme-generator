@@ -44,8 +44,7 @@ To learn about npm Inquierer I used this very well explained tutorial:
 ## Contributions
 If you would like to contribute to this project , you are very welcome! You can fork it and later submit a pull request. 
 In case you need them, here are some guidelines: [Contributor Covenant](https://www.contributor-covenant.org/)
-## GitHub Repository
-[https://github.com/
+
 # 🔗 Links
 ### GitHub Repository
 [https://github.com/giannifontanot/readme-generator/](https://github.com/giannifontanot/readme-generator/)
