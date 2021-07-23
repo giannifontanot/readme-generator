@@ -32,7 +32,8 @@ At this time, the Table of Contents (TOC) is generated manually. I recomend you 
     
 ![readme-generator.png](readme-generator.png)
 ## Credits
-To learn about npm Inquierer I used this very well explained tutorial [https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f](https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f).
+To learn about npm Inquierer I used this very well explained tutorial:
+ - [https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f](https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f).
 ## Features
 ````````````````````````
 - The system asks many questions automatically
