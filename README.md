@@ -24,7 +24,7 @@ The installation of README.md Generator is very straightforward: First, fork thi
 This README.md Generator is very handy, because it frees you from the task of writing one from code just by yourself. I am already using it to write this very same README file! I bet you will use it for all your projects from now on.
 
 - Please watch this video:
-[![Foo](video-readme-generator.png)](https://drive.google.com/file/d/1PM_p2e7QCmhn8c4C1y0Td4Co08JvPgZ5/view?usp=sharing)
+[![Foo](video-readme-generator.png)](https://drive.google.com/file/d/1PM_p2e7QCmhn8c4C1y0Td4Co08JvPgZ5/view)
 ## Credits
 To learn about npm Inquierer I used this very well explained tutorial: [https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f](https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f)
 ## Features
